@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-cross-team",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A simple Gatsby starter with material-ui and testing utilities",
   "version": "0.1.1",
   "license": "MIT",
   "scripts": {
